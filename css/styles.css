@@ -21,7 +21,7 @@ body {
 }
 
 .header-logo-part {
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 .header-logo-part:hover,
 .header-logo-part:focus {
@@ -92,6 +92,9 @@ body {
         letter-spacing: 0.02em;
         color: #434455;
 }
+.introduse{
+    background-color: #F4F4FD;
+}
 .introduse-name {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -148,4 +151,8 @@ body {
 
 .footer-about {
     background: #2e2f42;
+}
+
+.addr{
+    font-style: normal;
 }
