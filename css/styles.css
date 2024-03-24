@@ -20,11 +20,11 @@ body {
     color: #4d5ae5;
 }
 
-.header-logo-part {
+.header-logo-pass {
     color: #2e2f42;
 }
-.header-logo-part:hover,
-.header-logo-part:focus {
+.header-logo-pass:hover,
+.header-logo-pass:focus {
     color: #404bbf;
 }
 .header-menu-link {
@@ -157,6 +157,15 @@ body {
 
 .footer-about {
     background: #2e2f42;
+}
+.footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .footer-logo-part {
     color: #f4f4fd;
