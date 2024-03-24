@@ -21,7 +21,7 @@ body {
 }
 
 .header-logo-part {
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 .header-logo-part:hover,
 .header-logo-part:focus {
@@ -71,6 +71,7 @@ body {
         letter-spacing: 0.04em;
         color: #fff;
         background: #4d5ae5;
+        cursor: pointer;
 }
 .hero-btn-link:hover,
 .hero-btn-link:focus {
@@ -103,6 +104,11 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
+        text-transform: capitalize;
+}
+.introduse-hero-plus {
+    background-color: #FFFFFF;
 }
 .introduse-name-hero {
     font-family: "Roboto", sans-serif;
@@ -151,6 +157,14 @@ body {
 
 .footer-about {
     background: #2e2f42;
+}
+.footer-logo-part {
+    color: #f4f4fd;
+}
+
+.footer-logo-part:hover,
+.footer-logo-part:focus {
+    color: #404bbf;
 }
 
 .addr{
