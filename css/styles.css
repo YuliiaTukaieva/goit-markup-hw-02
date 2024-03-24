@@ -24,7 +24,8 @@ body {
     color: #2e2f42;
 }
 .header-logo-pass:hover,
-.header-logo-pass:focus {
+.header-logo-pass:focus,
+.header-logo-pass:active {
     color: #404bbf;
 }
 .header-menu-link {
